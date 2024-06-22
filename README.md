@@ -11,7 +11,7 @@ O programa apresenta as seguintes funcionalidades:
 4. Sair: Encerra o programa
 
 ---
-Como Usar
+### Como Usar
 
 1. Clone o repositório:
 ~~~java
