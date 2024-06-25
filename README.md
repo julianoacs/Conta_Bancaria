@@ -45,6 +45,3 @@ O código principal está contido na classe ContaBancaria. A seguir está um bre
 
 ### Requisitos
 Java Development Kit (JDK) 8 ou superior
-
-### Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
