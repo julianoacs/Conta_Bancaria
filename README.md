@@ -2,7 +2,7 @@
  
 Este é um simples programa de simulação de conta bancária em Java. O programa permite ao usuário consultar o saldo, transferir valores e receber valores em uma conta bancária fictícia.
 
-Funcionalidades
+Funcionalidades:  
 O programa apresenta as seguintes funcionalidades:
 
 1. Consultar Saldo: Permite ao usuário visualizar o saldo atual da conta.
